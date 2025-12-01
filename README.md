@@ -25,7 +25,7 @@ The source data is in _data/chains. Each chain has its own file with the filenam
   "networkId": 1,
   "icon": "ethereum",
   "explorers": [{
-    "name": "etherscan",
+    "name": "etherscan",p
     "url": "https://etherscan.io",
     "icon": "etherscan",
     "standard": "EIP3091"
